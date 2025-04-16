@@ -1,0 +1,25 @@
+.box1{
+    text-align: center;
+    background-color: #8B3E00;
+    padding: 50px;
+    font-size: 70;
+}
+.box2{
+    background-color:#d2a157;
+    padding: 100PX;
+    padding-left: 0PX;
+}
+    .front{
+        text-align: center;
+        background-color: #d2a157;
+        padding: 10px;
+    }
+    a{
+        color: green;
+        font-weight: bold;
+        margin: 15px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    a {
+        text-decoration: none;
+    }
